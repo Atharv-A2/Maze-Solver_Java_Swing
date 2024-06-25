@@ -50,7 +50,7 @@ Contributions to the Maze Solver Java project are always welcome! If you have an
 
 
 
-License
+## License
 
 This project is licensed under the MIT License, allowing you to freely use, modify, and distribute the code.
 
